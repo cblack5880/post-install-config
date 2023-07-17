@@ -86,17 +86,24 @@ From here, you would just fill out the name and email address field. And also se
 
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/1c7e1e19-d302-4932-a047-a7838408f859)
 
+This shows where you can assign agents to different departments and roles.
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/2ba4e025-12ad-41dd-95ab-6b622910d57f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Configure SLA
+
+SLA or Service Level Agreements to provide the length of time it takes to close a ticket.
+
+Admin Panel -> Manage -> SLA
+
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/d011de71-bef3-4df0-a5c0-dcb6c6ecc6f1)
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/f87ef936-dd5a-4730-84b4-8accd1d2bc42)
+
+
+
+
+
+
+
+
 # post-install-config
