@@ -71,7 +71,11 @@ Configure teams could help with delegating tasks to different agents. (Even if t
 
 At this moment, You are only naming the team. Once this is done, you can select its members.
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/fe51d2d0-9ac9-46a0-a45e-e5f86c1a9242)
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/849dfc9e-c3b3-45f7-b889-90388530fdf2)
 
+Configure Agents
+
+Configuring agents would allow you to give access to different agents. 
 
 
 </p>
