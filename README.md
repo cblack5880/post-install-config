@@ -30,6 +30,9 @@ Configure Roles
 
 Roles are permissions for agents according to their department. Some of the role permissions include assigning, creating, and closing tickets. Here are the steps below to configure roles.
 
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/c4f0e202-7bf8-4bee-bb38-0887ac00ef2e)
+
+
 Admin Panel -> Agents -> Roles
 
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/c363987c-ebbb-4456-8bf0-b6368b21f562)
@@ -58,6 +61,16 @@ One could create a department name. There will be areas where one could also set
 
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/caf91f05-b6be-4032-b518-3c4f2dadaa75)
 Once you are done editing your settings, click Create Dept.
+
+Configure Teams
+
+Configure teams could help with delegating tasks to different agents. (Even if they are in different departments.  Having agents from different departments will supersede the department rules. 
+
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/74335764-e1ca-4e44-88bd-296d16e76461)
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/454bba0c-7a1e-4829-a9a2-572a17c2c420)
+
+At this moment, You are only naming the team. Once this is done, you can select its members.
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/fe51d2d0-9ac9-46a0-a45e-e5f86c1a9242)
 
 
 
