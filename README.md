@@ -57,7 +57,7 @@ Admin Panel -> Agents -> Departments
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/ad23b001-60e6-4b11-953d-9f57730edf96)
 
 
-One could create a department name. There will be areas where one could also set up an SLA for that department's response to tasks. 
+You could create a department name. There will be areas where you could also set up an SLA for that department's response to tasks. 
 
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/caf91f05-b6be-4032-b518-3c4f2dadaa75)
 Once you are done editing your settings, click Create Dept.
@@ -99,11 +99,14 @@ Admin Panel -> Manage -> SLA
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/d011de71-bef3-4df0-a5c0-dcb6c6ecc6f1)
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/f87ef936-dd5a-4730-84b4-8accd1d2bc42)
 
+This example shows the SLA name, the grace period in hours to be completed, and an example of a company having a 24/7 schedule.  This means at any time, a ticket from the time its created, worked on, and close,  it should only take one hour.
+
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/655e88d3-6fc9-454a-9350-eef33cbabb28)
+
+This concludes the Post Installation for OSTIcket.
 
 
 
 
 
 
-
-# post-install-config
