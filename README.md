@@ -75,15 +75,18 @@ At this moment, You are only naming the team. Once this is done, you can select 
 
 Configure Agents
 
-Configuring agents would allow you to give access to different agents. 
+Configuring agents would allow you to give access to different agents. When adding an agent, they will need to be assigned to a primary department and given a primary role for the tickets.
+
+Admin Panel -> Agents -> Add New
+
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/d23f2e60-a9a5-4faf-9727-c874b1331cdb)
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/4eb2950f-182f-47a1-8ddd-c76ac8eae844)
+
+From here, you would just fill out the name and email address field. And also set a default Password for the agents. 
+
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/1c7e1e19-d302-4932-a047-a7838408f859)
 
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
