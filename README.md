@@ -34,10 +34,11 @@ Admin Panel -> Agents -> Roles
 
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/c363987c-ebbb-4456-8bf0-b6368b21f562)
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/1388d2fb-6ffb-40d9-bb13-d1b371d08ce8)
-![image](https://github.com/cblack5880/post-install-config/assets/138612466/1a17bd01-3fb1-459e-9728-9575b5b4733d)
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/a6720162-bdb2-49d0-adbb-25ba8c971fcb)
 
 From here, you can enter a new name for the role, and select the permissions you want for that agent.
-![image](https://github.com/cblack5880/post-install-config/assets/138612466/3542dbf7-e3b7-4ccf-8e51-9fc5596500b4)
+![image](https://github.com/cblack5880/post-install-config/assets/138612466/e7798959-5743-43e5-b510-8fdf1a29cbd5)
+
 
 This agent can have all these permissions assigned to them, which would give these abilities on OsTicket
 ![image](https://github.com/cblack5880/post-install-config/assets/138612466/c3d95810-0bc6-41d6-bb83-78d00e110bd6)
